@@ -52,6 +52,8 @@ I'm a passionate Data Scientist with a knack for solving complex problems and tu
 
 🔭 I am always looking to grow, learn, and contribute to exciting projects! Feel free to connect or reach out.
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sakhamuri-Swetha&theme=react&show_icons=true&hide_border=true&count_private=true)            ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakhamuri-Swetha&theme=react&show_icons=true&hide_border=true&layout=compact)
+
 
 🔗 **Connect with me:**
 - 📍 Jersey City, NJ
