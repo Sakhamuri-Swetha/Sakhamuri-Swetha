@@ -1,38 +1,15 @@
 ## Hi there 👋 I'm Swetha Sakhamuri
 
-<!--
-**Sakhamuri-Swetha/Sakhamuri-Swetha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-🔗 **Connect with me:**
-- 📍 Jersey City, NJ
-- 📞 +1 470-422-5742
-- ✉️ swethasakhamuri99@gmail.com
-- 🔗 [LinkedIn](#) | 🌐 [Portfolio](#)
+- ## 🧑‍💻 About Me
+I'm a passionate Data Scientist with a knack for solving complex problems and turning data into actionable insights. With a background in Electronics & Communication and hands-on experience as a Data Analyst, I thrive on tackling challenges through data-driven solutions. From leading successful migrations and automating workflows to creating dynamic dashboards, I love using technology to make systems smarter and processes more efficient. I'm always looking to learn and grow, and I’m excited about the endless possibilities data offers in creating positive change.
 
 ## 🧑‍🎓 Education
 - **Master of Professional Studies - Data Science (Specialization in Statistical Analysis)**  
   *SUNY University at Buffalo, Buffalo, NY*  
   GPA: 4.0 | Aug 2023 – Dec 2024
 
-- **Bachelor of Technology - Electronics & Communication**  
-  *Jawaharlal Nehru Technological Institute of Technology, Kakinada, Guntur, India*  
-  GPA: 8.6 | Aug 2017 – May 2021
 
-## 🧑‍💻 About Me
-I'm a passionate Data Scientist with a knack for solving complex problems and turning data into actionable insights. With a background in Electronics & Communication and hands-on experience as a Data Analyst, I thrive on tackling challenges through data-driven solutions. From leading successful migrations and automating workflows to creating dynamic dashboards, I love using technology to make systems smarter and processes more efficient. I'm always looking to learn and grow, and I’m excited about the endless possibilities data offers in creating positive change.
 
 ## 🛠️ Skills
 - **Programming**: Python, R, JavaScript, Java, SQL (MySQL, PostgreSQL), XSLT, Google Big Query, MongoDB
@@ -62,15 +39,12 @@ I'm a passionate Data Scientist with a knack for solving complex problems and tu
 
 ## 💻 Projects
 
-### Insurance Database Management System (MySQL, Python)
-- Created a centralized insurance database, reducing data retrieval by 25%.
-- Developed 10 Tableau visualizations for analyzing 3 years of insurance data.
 
 ### Global Terrorism Analysis (Tableau, R, Excel)
 - Analyzed 47 years of terrorism data (1970–2017) across 177K incidents.
 - Visualized trends with heatmaps and bubble charts in Tableau.
 
-### K-Drama Recommendation System (Python, MySQL, Tableau, Flask)
+### K-Drama Recommendation System (Python, Tableau, Flask)
 - Developed a recommendation system using collaborative filtering and content-based models.
 - Built a Flask app for personalized drama recommendations.
 
@@ -78,4 +52,9 @@ I'm a passionate Data Scientist with a knack for solving complex problems and tu
 
 🔭 I am always looking to grow, learn, and contribute to exciting projects! Feel free to connect or reach out.
 
-✨ **Fun fact**: I am passionate about using data to drive impactful decisions and solve real-world challenges!
+
+🔗 **Connect with me:**
+- 📍 Jersey City, NJ
+- 📞 +1 470-422-5742
+- ✉️ swethasakhamuri99@gmail.com
+- 🔗 [LinkedIn](#) | 🌐 [Portfolio](#)
